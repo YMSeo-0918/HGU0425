@@ -1,2 +1,2 @@
 Hello this is Yoomin Seo's Readme File.
-Please Write your name and student ID!
+21900366 Group 3
