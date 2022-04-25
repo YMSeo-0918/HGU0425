@@ -1,1 +1,2 @@
-# HGU0425
+Hello this is Yoomin Seo's Readme File.
+Please Write your name and student ID!
